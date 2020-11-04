@@ -1,2 +1,2 @@
-# Coursera_Capstone
-This project helps me in getting familiar with the github.
+# Knowing the neighbourhood
+This project aims at helping people to choose a place which is suitable for them.
